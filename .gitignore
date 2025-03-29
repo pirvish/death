@@ -4,3 +4,6 @@
 
 # Ignore .vscode settings folder
 .vscode/
+
+# ignore .gitignore
+.gitignore
