@@ -2,8 +2,9 @@
 /bin/
 /obj/
 
+# ignore .gitignore
+.gitignore
+
 # Ignore .vscode settings folder
 .vscode/
 
-# ignore .gitignore
-.gitignore
