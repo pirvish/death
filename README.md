@@ -1,0 +1,1 @@
+Default timer is 60 seconds. Change it in the config file named "SetDeathTimer.cfg"
