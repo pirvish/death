@@ -1,0 +1,6 @@
+# Ignore bin and obj folders
+/bin/
+/obj/
+
+# Ignore .vscode settings folder
+.vscode/
