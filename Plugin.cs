@@ -22,7 +22,7 @@ namespace death
             string pluginDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
             // Path to the config file
-            string configFilePath = Path.Combine(pluginDirectory, "death.cfg");
+            string configFilePath = Path.Combine(pluginDirectory, "SetDeathTimer.cfg");
 
             // Load the config file once during mod load
             if (File.Exists(configFilePath))
